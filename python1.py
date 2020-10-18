@@ -1,3 +1,3 @@
-print("this is a workshop")
-print("this is second algo")
+print("1")
+print("2")
 #this is an ordinary statement
